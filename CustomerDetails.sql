@@ -71,4 +71,3 @@ VALUES
 select * from ADDRESS_TB1;
 select * from  CUSTOMER_TB1;
 select * from TRANSACTION_TB1;
-select CUST_ID from CUSTOMER_TB1 where CUST_ID >1;
